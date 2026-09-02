@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/husnainali/Documents/dailydsa/day1",
-      "program": "/Users/husnainali/Documents/dailydsa/day1/build/Debug/outDebug"
+      "cwd": "/Users/husnainali/Documents/dailydsa/day2",
+      "program": "/Users/husnainali/Documents/dailydsa/day2/build/Debug/outDebug"
     }
   ]
 }
