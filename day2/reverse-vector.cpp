@@ -17,11 +17,8 @@ int main(){
         x++;
         y--;
     }
-
     for(int i: nums){
         cout<<i<<" "<<endl;
     }
-   
-
     return 0;
 }
