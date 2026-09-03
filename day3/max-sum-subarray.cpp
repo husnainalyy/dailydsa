@@ -12,7 +12,7 @@ int main() {
     for (int j = i; j < size; j++) {
       curt_sum+=arr[j]; 
       max_sum=max(curt_sum,max_sum);
-    }
+    } 
   }
 
   cout<<"Maximum subarray sum is: "<<max_sum<<endl;
