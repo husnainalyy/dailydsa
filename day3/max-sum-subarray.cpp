@@ -7,7 +7,7 @@ int main() {
   int size = 5;
   int max_sum = INT_MIN;
 
-  for (int i = 0; i < size; i++) { 
+  for (int i = 0; i < size; i++) {
     int curt_sum=0;
     for (int j = i; j < size; j++) {
       curt_sum+=arr[j];
