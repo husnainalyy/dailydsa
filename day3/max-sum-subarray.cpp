@@ -10,7 +10,7 @@ int main() {
   for (int i = 0; i < size; i++) {
     int curt_sum=0;
     for (int j = i; j < size; j++) {
-      curt_sum+=arr[j];
+      curt_sum+=arr[j]; 
       max_sum=max(curt_sum,max_sum);
     }
   }
